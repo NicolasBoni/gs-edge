@@ -90,7 +90,7 @@ Click <a href="https://github.com/NicolasBoni/gs-edge/blob/main/FIWARE.postman_c
 
 -  Wokwi: https://wokwi.com/projects/382324339671957505'
 
-- Video explicativo no youtube: 
+- Video explicativo no youtube: https://youtu.be/zv4GxE8-fy4
 
 
 # Authors: 
