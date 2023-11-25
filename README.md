@@ -10,21 +10,12 @@
 
 # Introduction
 
-## General Description of the Problem
-+ The current challenge is to ensure a healthy life and promote well-being for all ages, especially in the context of diabetic children. The need for awareness and maturation of these children regarding their condition is crucial to ensure effective management of diabetes from childhood.
+## Problema
+Em áreas remotas, o tempo de resposta a emergências médicas é frequentemente prolongado devido a desafios como localização imprecisa do paciente e falta de acesso imediato a serviços de emergência. Isso pode levar a resultados de saúde negativos e, em alguns casos, fatais
 
-## Solution Proposal
-+ ### DiabKids: Awareness and Maturation
-The proposed solution, called DiabKids, aims to develop a comprehensive platform that addresses awareness and maturation of diabetic children regarding their condition. The solution will consist of:
-### Interactive Website:
-An interactive website aimed at children, offering information about diabetes in a fun and educational way.
-Pointing system to encourage participation and continuous learning.
-### Points System:
-Implementation of a points system, where children accumulate points through active participation on the website, solving diabetes-related challenges and completing educational tasks.
-Points can be exchanged for rewards, encouraging healthy behavior and adherence to treatment.
-### Monitoring via IoT:
-Using IoT (Internet of Things) devices to constantly monitor children's glucose levels.
-Data is shared in real time with parents and the responsible doctor, allowing for more accurate and immediate monitoring of health status.
+
+## Solução
+A solução EmergiNet visa reduzir significativamente o tempo de resposta a emergências médicas em áreas remotas. A ideia central é um aplicativo móvel que permite aos usuários enviarem rapidamente um alerta de SOS, que inclui sua localização exata, para os serviços de emergência adequados.
 
 
 
@@ -78,7 +69,7 @@ Minimum Secondary Storage - **20GB HD and/or SSD** (Depends on application requi
 
 Here you will find a set of collections designed to be imported by the Postman tool. These collections will help you interact with the Orion Context Broker, IoT Agent MQTT and STH-Comet components, present in the FIWARE Descomplicado architecture.
 
-Click <a href="https://github.com/pedrogava/EDGE_COMPUTING/blob/main/FIWARE.postman_collection.json"> here </a> to access the Postman collection.
+Click <a href="https://github.com/NicolasBoni/gs-edge/blob/main/FIWARE.postman_collection_1.json"> here </a> to access the Postman collection.
 
 
 # Iot Device
